@@ -1,2 +1,2 @@
 # TAP
-Competitive Prigramming
+Competitive Programming
